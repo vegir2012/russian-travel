@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.page {
+    background-color: #2A2C2F;
+    font-family: 'Inter';
+    margin: 0 auto;
+}
+@media screen and (min-width: 1280px) {
+    .page {
+        min-width: 1280px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .page {
+        max-width: 1024px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page {
+        max-width: 768px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .page {
+        max-width: 320px;
+    }
+}

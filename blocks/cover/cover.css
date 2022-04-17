@@ -1,0 +1,31 @@
+@media screen and (min-width: 1280px) {
+    .cover {
+        max-width: 1184px;
+        min-height: 740px;
+        margin: 92px auto 0;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        max-width: 1024px;
+        min-height: 640px;
+        margin: 92px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        max-width: 768px;
+        min-height: 480px;
+        margin: 90px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover {
+        max-width: 320px;
+        min-height: 200px;
+        margin: 66px 0 0 0;
+    }
+}
