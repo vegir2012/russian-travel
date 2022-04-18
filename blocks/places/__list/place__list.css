@@ -14,7 +14,7 @@
 @media screen and (max-width: 1024px) {
     .place__list {
         max-width: 928px;
-        min-height: 3292x;
+        min-height: 3292px;
         margin: 92px auto 0;
     }
 }
