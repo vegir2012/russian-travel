@@ -32,7 +32,7 @@
         line-height: 20px;
     }    
 }
-.header__lang-link:first-of-type {
+.header__lang-link_active {
     text-decoration: underline;
 }
 .header__lang-link:last-of-type {
