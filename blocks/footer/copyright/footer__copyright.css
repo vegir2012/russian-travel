@@ -2,26 +2,8 @@
     color: white;
     font-style: normal;
     font-weight: 400;
-}
-@media screen and (min-width: 1280px) {
-    .footer__copyright {
-        font-size: 14px;
-        line-height: 16px;
-    }
-}
-
-@media screen and (max-width: 1024px) {
-    .footer__copyright {
-        font-size: 14px;
-        line-height: 16px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .footer__copyright {
-        font-size: 14px;
-        line-height: 16px;
-    }
+    font-size: 14px;
+    line-height: 16px;
 }
 @media screen and (max-width: 320px) {
     .footer__copyright {

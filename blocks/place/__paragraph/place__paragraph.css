@@ -2,20 +2,18 @@
     color: white;
     font-style: normal;
     font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
 }
 @media screen and (min-width: 1280px) {
     .place__paragraph {
         margin: 0 148px 27px 40px;
-        font-size: 18px;
-        line-height: 163%;
     }
 }
 
 @media screen and (max-width: 1024px) {
     .place__paragraph {
         margin: 0 48px 27px 32px;
-        font-size: 18px;
-        line-height: 163%;
     }
 }
 

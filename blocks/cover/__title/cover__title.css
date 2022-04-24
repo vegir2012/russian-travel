@@ -4,37 +4,12 @@
     font-weight: 900;
     text-align: center;
     z-index: 2;
+    font-size: 72px;
+    line-height: 76px;
+    max-width: 512px;
+    min-height: 152px;
+    margin-bottom: 32px;
 }
-@media screen and (min-width: 1280px) {
-    .cover__title {
-        font-size: 72px;
-        line-height: 76px;
-        max-width: 512px;
-        min-height: 152px;
-        margin-bottom: 32px;
-    }
-}
-
-@media screen and (max-width: 1024px) {
-    .cover__title {
-        font-size: 72px;
-        line-height: 76px;
-        max-width: 512px;
-        min-height: 152px;
-        margin-bottom: 32px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .cover__title {
-        font-size: 72px;
-        line-height: 76px;
-        max-width: 512px;
-        min-height: 152px;
-        margin-bottom: 32px;
-    }
-}
-
 @media screen and (max-width: 320px) {
     .cover__title {
         font-size: 32px;

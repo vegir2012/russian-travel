@@ -31,7 +31,7 @@
 @media screen and (max-width: 320px) {
     .cover__titles-container {
         position: absolute;
-        top: 25%;
+        top: 18%;
         left: 15%;
     }
 }

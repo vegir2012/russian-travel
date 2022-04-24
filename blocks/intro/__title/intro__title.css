@@ -2,26 +2,8 @@
     color: white;
     font-style: normal;
     font-weight: 900;
-}
-@media screen and (min-width: 1280px) {
-    .intro__title {
-        font-size: 54px;
-        line-height: 58px;
-    }
-}
-
-@media screen and (max-width: 1024px) {
-    .intro__title {
-        font-size: 54px;
-        line-height: 58px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .intro__title {
-        font-size: 54px;
-        line-height: 58px;
-    }
+    font-size: 54px;
+    line-height: 58px;
 }
 
 @media screen and (max-width: 320px) {
