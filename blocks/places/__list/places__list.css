@@ -7,14 +7,14 @@
 @media screen and (min-width: 1280px) {
     .places__list {
         max-width: 984px;
-        max-height: 3392px;
+        min-height: 3392px;
     }
 }
 
 @media screen and (max-width: 1024px) {
     .places__list {
         max-width: 928px;
-        max-height: 3292px;
+        min-height: 3292px;
     }
 }
 
