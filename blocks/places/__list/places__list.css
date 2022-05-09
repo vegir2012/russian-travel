@@ -11,7 +11,7 @@
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .places__list {
         max-width: 928px;
         min-height: 3292px;
@@ -26,7 +26,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .places__list {
         min-width: 320px;
         max-height: 5177px;

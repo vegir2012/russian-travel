@@ -28,7 +28,7 @@
         left: 18%;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .cover__titles-container {
         position: absolute;
         top: 18%;

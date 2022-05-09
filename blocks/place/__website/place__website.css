@@ -11,7 +11,7 @@
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .place__website {
         margin: 32px 48px 48px 32px;
     }
@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .place__website {
         min-width: 288px;
         margin: 32px 16px;

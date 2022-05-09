@@ -11,7 +11,7 @@
     }    
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px)  {
     .lead {
         max-width: 928px;
         max-height: 962px;
@@ -27,7 +27,7 @@
     }    
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .lead {
         max-width: 320px;
         max-height: 406px;

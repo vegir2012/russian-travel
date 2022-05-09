@@ -10,7 +10,7 @@
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .place {
         max-width: 928px;
         min-height: 640px;
@@ -25,7 +25,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .place {
         flex-direction: column;
         max-width: 320px;
