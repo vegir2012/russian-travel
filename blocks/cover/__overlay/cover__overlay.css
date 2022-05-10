@@ -7,29 +7,25 @@
 }
 @media screen and (min-width: 1280px) {
     .cover__overlay {
-        max-width: 1184px;
-        min-height: 740px;
+        max-width: 92%;
     }
 }
 
 @media screen and (max-width: 1279px)  {
     .cover__overlay {
-        max-width: 1024px;
-        min-height: 640px;
+        max-width: 100%;
     }
 }
 
 @media screen and (max-width: 900px) {
     .cover__overlay {
-        max-width: 768px;
-        min-height: 480px;
+        max-width: 100%;
     }
 }
 
 @media screen and (max-width: 700px) {
     .cover__overlay {
         max-width: 100%;
-        min-height: 200px;
     }
 }
 .cover__overlay:hover {

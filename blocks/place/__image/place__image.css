@@ -1,20 +1,20 @@
 @media screen and (min-width: 1280px) {
     .place__image {
-        max-width: 36%;
+        max-width: 100%;
         min-height: 460px;
     }
 }
 
 @media screen and (max-width: 1279px)  {
     .place__image {
-        max-width: 42%;
+        max-width: 100%;
         min-height: 440px;
     }
 }
 
 @media screen and (max-width: 900px) {
     .place__image {
-        max-width: 31%;
+        max-width: 100%;
         min-height: 340px;
     }
 }
