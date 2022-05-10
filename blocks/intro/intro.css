@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: space-between;
     margin: 92px 790px 0px auto;
-    max-width: 690px;
+    max-width: 54%;
     min-height: 429px;
 }
 @media screen and (min-width: 1280px) {
@@ -18,17 +18,17 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
     .intro {
-        max-width: 720px;
+        max-width: 92%;
         min-height: 429px;
         margin: 88px auto 0;
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 700px) {
     .intro {
-        max-width: 288px;
+        max-width: 90%;
         min-height: 754px;
         margin: 64px auto 0;
     }

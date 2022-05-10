@@ -20,13 +20,13 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
     .page {
         max-width: 100%;
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 700px) {
     .page {
         max-width: 100%;
     }
